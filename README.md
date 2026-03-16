@@ -2,6 +2,10 @@
 
 A modern, responsive website for a fitness sports center built with React and Vite.
 
+## Live Demo
+
+Check out the live demo: [https://fitness-sports-center-website.vercel.app/](https://fitness-sports-center-website.vercel.app/)
+
 ## Tech Stack
 
 - **React** - UI library
